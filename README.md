@@ -78,3 +78,7 @@ Instructions pour configurer et lancer le projet localement.
     ```
 
 ---
+
+## Structure du Projet
+
+Nous utilisons une architecture "Feature-First". Le code est séparé par modules, et chaque module possède sa propre structure `data`, `domain` et `presentation`.
